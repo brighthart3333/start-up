@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap'); 
+
+.qr-code {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border: 1px solid hsl(220, 15%, 55%);
+}
